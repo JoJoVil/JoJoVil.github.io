@@ -1,11 +1,11 @@
 # Site settings
-author: jo
+author: Joann Brady
 title: Joann Brady
 header-img: img/home-bg.png
 email: jbrady11934@optimum.net
-copyright_name: jo
+copyright_name: Joann Brady
 description: > # this means to ignore newlines until "baseurl:"
-  JO
+  Why I started coding with Flatiron
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  JoJoVil
